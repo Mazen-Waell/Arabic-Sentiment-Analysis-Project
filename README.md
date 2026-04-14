@@ -198,18 +198,11 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## 👥 Team
+## 👤 Author
 
-| Name | GitHub |
-|------|--------|
-| Mazen Wael | [@Mazen-Waell](https://github.com/Mazen-Waell) |
-| Omar Labib | [@labib2410](https://github.com/labib2410) |
+**Mazen Wael** — [@Mazen-Waell](https://github.com/Mazen-Waell)
+
 
 Alexandria University — Faculty of Engineering  
-Computer & Communication Engineering, Class of 2026
+Computer & Communication Engineering, Class of 2027
 
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
