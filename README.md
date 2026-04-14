@@ -15,7 +15,8 @@ Egyptian companies receive thousands of Arabic customer reviews daily across soc
 
 ## 🗂️ Dataset
 
-**Arabic 100K Reviews** — 99,417 reviews from hotels, books, movies, and products.
+**Arabic 100K Reviews** — 99,417 reviews from hotels, books, movies, and products.  
+Source: [kaggle.com/datasets/abedkhooli/arabic-100k-reviews](https://www.kaggle.com/datasets/abedkhooli/arabic-100k-reviews)
 
 | Split | Size |
 |-------|------|
@@ -202,7 +203,9 @@ streamlit run app/streamlit_app.py
 
 **Mazen Wael** — [@Mazen-Waell](https://github.com/Mazen-Waell)
 
-
 Alexandria University — Faculty of Engineering  
 Computer & Communication Engineering, Class of 2027
+
+---
+
 
